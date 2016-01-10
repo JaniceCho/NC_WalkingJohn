@@ -1,0 +1,2021 @@
+fileFormatVersion: 2
+guid: ada4c824f629f65478e8c75a8a3763a3
+timeCreated: 1452329445
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Item_food_0
+    21300002: Item_food_1
+    21300004: Item_food_2
+    21300006: Item_food_3
+    21300008: Item_food_4
+    21300010: Item_food_5
+    21300012: Item_food_6
+    21300014: Item_food_7
+    21300016: Item_food_8
+    21300018: Item_food_9
+    21300020: Item_food_10
+    21300022: Item_food_11
+    21300024: Item_food_12
+    21300026: Item_food_13
+    21300028: Item_food_14
+    21300030: Item_food_15
+    21300032: Item_food_16
+    21300034: Item_food_17
+    21300036: Item_food_18
+    21300038: Item_food_19
+    21300040: Item_food_20
+    21300042: Item_food_21
+    21300044: Item_food_22
+    21300046: Item_food_23
+    21300048: Item_food_24
+    21300050: Item_food_25
+    21300052: Item_food_26
+    21300054: Item_food_27
+    21300056: Item_food_28
+    21300058: Item_food_29
+    21300060: Item_food_30
+    21300062: Item_food_31
+    21300064: Item_food_32
+    21300066: Item_food_33
+    21300068: Item_food_34
+    21300070: Item_food_35
+    21300072: Item_food_36
+    21300074: Item_food_37
+    21300076: Item_food_38
+    21300078: Item_food_39
+    21300080: Item_food_40
+    21300082: Item_food_41
+    21300084: Item_food_42
+    21300086: Item_food_43
+    21300088: Item_food_44
+    21300090: Item_food_45
+    21300092: Item_food_46
+    21300094: Item_food_47
+    21300096: Item_food_48
+    21300098: Item_food_49
+    21300100: Item_food_50
+    21300102: Item_food_51
+    21300104: Item_food_52
+    21300106: Item_food_53
+    21300108: Item_food_54
+    21300110: Item_food_55
+    21300112: Item_food_56
+    21300114: Item_food_57
+    21300116: Item_food_58
+    21300118: Item_food_59
+    21300120: Item_food_60
+    21300122: Item_food_61
+    21300124: Item_food_62
+    21300126: Item_food_63
+    21300128: Item_food_64
+    21300130: Item_food_65
+    21300132: Item_food_66
+    21300134: Item_food_67
+    21300136: Item_food_68
+    21300138: Item_food_69
+    21300140: Item_food_70
+    21300142: Item_food_71
+    21300144: Item_food_72
+    21300146: Item_food_73
+    21300148: Item_food_74
+    21300150: Item_food_75
+    21300152: Item_food_76
+    21300154: Item_food_77
+    21300156: Item_food_78
+    21300158: Item_food_79
+    21300160: Item_food_80
+    21300162: Item_food_81
+    21300164: Item_food_82
+    21300166: Item_food_83
+    21300168: Item_food_84
+    21300170: Item_food_85
+    21300172: Item_food_86
+    21300174: Item_food_87
+    21300176: Item_food_88
+    21300178: Item_food_89
+    21300180: Item_food_90
+    21300182: Item_food_91
+    21300184: Item_food_92
+    21300186: Item_food_93
+    21300188: Item_food_94
+    21300190: Item_food_95
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Item_food_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -6}
+        - {x: 21, y: -4}
+        - {x: 15, y: -4}
+        - {x: 0, y: -24}
+        - {x: 0, y: -29}
+        - {x: 3, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -21}
+        - {x: 30, y: -9}
+    - name: Item_food_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -2}
+        - {x: 1, y: -16}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -5}
+        - {x: 28, y: -2}
+    - name: Item_food_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: 0}
+        - {x: 3, y: -18}
+        - {x: 3, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: 0}
+    - name: Item_food_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -7}
+        - {x: 7, y: -9}
+        - {x: 0, y: -19}
+        - {x: 0, y: -29}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -19}
+        - {x: 22, y: -7}
+    - name: Item_food_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -5}
+        - {x: 7, y: -7}
+        - {x: 1, y: -20}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -9}
+        - {x: 24, y: -5}
+    - name: Item_food_5
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -3}
+        - {x: 6, y: -4}
+        - {x: 3, y: -18}
+        - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -13}
+        - {x: 22, y: -3}
+    - name: Item_food_6
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -16}
+        - {x: 29, y: -8}
+        - {x: 6, y: -8}
+        - {x: 0, y: -21}
+    - name: Item_food_7
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -6}
+        - {x: 1, y: -16}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -12}
+        - {x: 23, y: -6}
+    - name: Item_food_8
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -4}
+        - {x: 13, y: -4}
+        - {x: 3, y: -14}
+        - {x: 3, y: -29}
+        - {x: 7, y: -32}
+        - {x: 26, y: -32}
+        - {x: 29, y: -29}
+        - {x: 30, y: -24}
+        - {x: 30, y: -8}
+    - name: Item_food_9
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -7}
+        - {x: 8, y: -7}
+        - {x: 0, y: -19}
+        - {x: 0, y: -30}
+        - {x: 1, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -17}
+        - {x: 31, y: -14}
+    - name: Item_food_10
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -5}
+        - {x: 14, y: -5}
+        - {x: 1, y: -15}
+        - {x: 1, y: -31}
+        - {x: 2, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -11}
+        - {x: 25, y: -6}
+    - name: Item_food_11
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -3}
+        - {x: 3, y: -12}
+        - {x: 3, y: -28}
+        - {x: 5, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -3}
+    - name: Item_food_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -4}
+        - {x: 0, y: -24}
+        - {x: 0, y: -29}
+        - {x: 2, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -6}
+        - {x: 27, y: -4}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 31, y: -7}
+        - {x: 31, y: -6}
+        - {x: 26, y: -2}
+        - {x: 20, y: -2}
+        - {x: 4, y: -16}
+        - {x: 1, y: -20}
+        - {x: 1, y: -29}
+        - {x: 3, y: -32}
+        - {x: 27, y: -32}
+        - {x: 31, y: -28}
+        - {x: 31, y: -25}
+        - {x: 26, y: -20}
+    - name: Item_food_14
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: 0}
+        - {x: 4, y: -14}
+        - {x: 2, y: -16}
+        - {x: 2, y: -29}
+        - {x: 4, y: -32}
+        - {x: 28, y: -32}
+        - {x: 30, y: -31}
+        - {x: 30, y: -2}
+        - {x: 27, y: 0}
+    - name: Item_food_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -6}
+        - {x: 0, y: -9}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -13}
+        - {x: 29, y: -6}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -4}
+        - {x: 10, y: -4}
+        - {x: 1, y: -9}
+        - {x: 1, y: -29}
+        - {x: 5, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -30}
+        - {x: 31, y: -21}
+        - {x: 29, y: -9}
+    - name: Item_food_17
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -2}
+        - {x: 3, y: -5}
+        - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -6}
+        - {x: 28, y: -2}
+    - name: Item_food_18
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -7}
+        - {x: 10, y: -7}
+        - {x: 4, y: -10}
+        - {x: 0, y: -20}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -24}
+        - {x: 29, y: -14}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_19
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -5}
+        - {x: 1, y: -17}
+        - {x: 1, y: -31}
+        - {x: 2, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -14}
+        - {x: 18, y: -5}
+    - name: Item_food_20
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -3}
+        - {x: 3, y: -4}
+        - {x: 3, y: -31}
+        - {x: 4, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -9}
+        - {x: 24, y: -3}
+    - name: Item_food_21
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -24}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -15}
+        - {x: 30, y: -10}
+        - {x: 27, y: -8}
+        - {x: 14, y: -8}
+        - {x: 3, y: -13}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_22
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -6}
+        - {x: 7, y: -6}
+        - {x: 1, y: -19}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -16}
+        - {x: 30, y: -8}
+    - name: Item_food_23
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -4}
+        - {x: 3, y: -13}
+        - {x: 3, y: -30}
+        - {x: 5, y: -32}
+        - {x: 27, y: -32}
+        - {x: 29, y: -30}
+        - {x: 29, y: -4}
+    - name: Item_food_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -19}
+        - {x: 0, y: -31}
+        - {x: 1, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -12}
+        - {x: 30, y: -6}
+        - {x: 3, y: -6}
+        - {x: 1, y: -9}
+    - name: Item_food_25
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -4}
+        - {x: 1, y: -5}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -12}
+        - {x: 22, y: -4}
+    - name: Item_food_26
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -2}
+        - {x: 3, y: -29}
+        - {x: 7, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -4}
+        - {x: 26, y: -2}
+    - name: Item_food_27
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: -5}
+        - {x: 10, y: -5}
+        - {x: 0, y: -10}
+        - {x: 0, y: -31}
+        - {x: 2, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -30}
+        - {x: 32, y: -17}
+    - name: Item_food_28
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -3}
+        - {x: 4, y: -8}
+        - {x: 1, y: -15}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -9}
+        - {x: 25, y: -3}
+    - name: Item_food_29
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -1}
+        - {x: 3, y: -8}
+        - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -3}
+        - {x: 28, y: -1}
+    - name: Item_food_30
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: -9}
+        - {x: 11, y: -9}
+        - {x: 0, y: -19}
+        - {x: 0, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -24}
+        - {x: 30, y: -16}
+    - name: Item_food_31
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -7}
+        - {x: 3, y: -15}
+        - {x: 1, y: -19}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -9}
+        - {x: 24, y: -7}
+    - name: Item_food_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -5}
+        - {x: 3, y: -10}
+        - {x: 3, y: -31}
+        - {x: 4, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -9}
+        - {x: 28, y: -5}
+    - name: Item_food_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -9}
+        - {x: 7, y: -9}
+        - {x: 0, y: -18}
+        - {x: 0, y: -29}
+        - {x: 1, y: -32}
+        - {x: 29, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -18}
+    - name: Item_food_34
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -7}
+        - {x: 12, y: -7}
+        - {x: 1, y: -22}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -25}
+        - {x: 27, y: -9}
+    - name: Item_food_35
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -29}
+        - {x: 5, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -16}
+        - {x: 27, y: -11}
+        - {x: 24, y: -5}
+        - {x: 13, y: -5}
+        - {x: 3, y: -11}
+    - name: Item_food_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -5}
+        - {x: 9, y: -5}
+        - {x: 0, y: -10}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -21}
+        - {x: 29, y: -13}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -3}
+        - {x: 13, y: -3}
+        - {x: 4, y: -6}
+        - {x: 1, y: -15}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -23}
+        - {x: 28, y: -12}
+    - name: Item_food_38
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -13}
+        - {x: 23, y: -1}
+        - {x: 9, y: -1}
+        - {x: 3, y: -6}
+    - name: Item_food_39
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -9}
+        - {x: 3, y: -10}
+        - {x: 0, y: -17}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -17}
+        - {x: 20, y: -9}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_40
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -7}
+        - {x: 12, y: -7}
+        - {x: 1, y: -13}
+        - {x: 1, y: -29}
+        - {x: 3, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -29}
+        - {x: 31, y: -17}
+    - name: Item_food_41
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -5}
+        - {x: 3, y: -12}
+        - {x: 3, y: -30}
+        - {x: 7, y: -32}
+        - {x: 29, y: -32}
+        - {x: 30, y: -28}
+        - {x: 30, y: -11}
+        - {x: 20, y: -5}
+    - name: Item_food_42
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -6}
+        - {x: 6, y: -11}
+        - {x: 0, y: -20}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -13}
+        - {x: 25, y: -6}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_43
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -4}
+        - {x: 19, y: -4}
+        - {x: 15, y: -5}
+        - {x: 6, y: -9}
+        - {x: 1, y: -16}
+        - {x: 1, y: -29}
+        - {x: 5, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -30}
+        - {x: 31, y: -22}
+        - {x: 29, y: -8}
+    - name: Item_food_44
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -2}
+        - {x: 2, y: -8}
+        - {x: 2, y: -24}
+        - {x: 3, y: -28}
+        - {x: 7, y: -32}
+        - {x: 27, y: -32}
+        - {x: 29, y: -31}
+        - {x: 29, y: -4}
+        - {x: 26, y: -2}
+    - name: Item_food_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -6}
+        - {x: 4, y: -11}
+        - {x: 0, y: -18}
+        - {x: 0, y: -30}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -31}
+        - {x: 32, y: -17}
+        - {x: 23, y: -6}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_46
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -4}
+        - {x: 1, y: -22}
+        - {x: 1, y: -28}
+        - {x: 5, y: -32}
+        - {x: 30, y: -32}
+        - {x: 31, y: -31}
+        - {x: 31, y: -14}
+        - {x: 23, y: -4}
+    - name: Item_food_47
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -2}
+        - {x: 3, y: -8}
+        - {x: 3, y: -30}
+        - {x: 6, y: -32}
+        - {x: 28, y: -32}
+        - {x: 29, y: -31}
+        - {x: 29, y: -10}
+        - {x: 25, y: -2}
+    - name: Item_food_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: -6}
+        - {x: 0, y: -9}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -14}
+        - {x: 18, y: -6}
+    - name: Item_food_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -4}
+        - {x: 1, y: -4}
+        - {x: 1, y: -32}
+        - {x: 30, y: -32}
+        - {x: 31, y: -31}
+        - {x: 31, y: -17}
+        - {x: 22, y: -5}
+    - name: Item_food_50
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -2}
+        - {x: 2, y: -2}
+        - {x: 2, y: -30}
+        - {x: 4, y: -32}
+        - {x: 30, y: -32}
+        - {x: 30, y: -15}
+        - {x: 27, y: -11}
+    - name: Item_food_51
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -5}
+        - {x: 0, y: -16}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -13}
+        - {x: 20, y: -5}
+    - name: Item_food_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -3}
+        - {x: 1, y: -10}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -10}
+        - {x: 19, y: -3}
+    - name: Item_food_53
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -1}
+        - {x: 8, y: -1}
+        - {x: 3, y: -7}
+        - {x: 3, y: -29}
+        - {x: 7, y: -32}
+        - {x: 27, y: -32}
+        - {x: 29, y: -28}
+        - {x: 29, y: -11}
+    - name: Item_food_54
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: -6}
+        - {x: 0, y: -24}
+        - {x: 0, y: -29}
+        - {x: 1, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -13}
+        - {x: 22, y: -6}
+    - name: Item_food_55
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -4}
+        - {x: 11, y: -4}
+        - {x: 1, y: -25}
+        - {x: 1, y: -30}
+        - {x: 4, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -30}
+        - {x: 31, y: -24}
+        - {x: 24, y: -6}
+    - name: Item_food_56
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -2}
+        - {x: 10, y: -2}
+        - {x: 3, y: -21}
+        - {x: 3, y: -29}
+        - {x: 7, y: -32}
+        - {x: 28, y: -32}
+        - {x: 29, y: -28}
+        - {x: 29, y: -17}
+        - {x: 24, y: -4}
+    - name: Item_food_57
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: -6}
+        - {x: 6, y: -6}
+        - {x: 0, y: -16}
+        - {x: 0, y: -31}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -18}
+        - {x: 24, y: -7}
+    - name: Item_food_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -4}
+        - {x: 1, y: -14}
+        - {x: 1, y: -31}
+        - {x: 2, y: -32}
+        - {x: 30, y: -32}
+        - {x: 31, y: -30}
+        - {x: 31, y: -17}
+        - {x: 24, y: -4}
+    - name: Item_food_59
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -2}
+        - {x: 4, y: -5}
+        - {x: 3, y: -9}
+        - {x: 3, y: -30}
+        - {x: 4, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -5}
+        - {x: 19, y: -2}
+    - name: Item_food_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -6}
+        - {x: 0, y: -18}
+        - {x: 0, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -18}
+        - {x: 28, y: -6}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -4}
+        - {x: 13, y: -6}
+        - {x: 1, y: -21}
+        - {x: 1, y: -28}
+        - {x: 4, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -4}
+    - name: Item_food_62
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 20, y: -2}
+        - {x: 3, y: -15}
+        - {x: 3, y: -30}
+        - {x: 5, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -2}
+    - name: Item_food_63
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -5}
+        - {x: 6, y: -9}
+        - {x: 0, y: -21}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -16}
+        - {x: 29, y: -5}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_64
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: -3}
+        - {x: 1, y: -9}
+        - {x: 1, y: -28}
+        - {x: 3, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -28}
+        - {x: 31, y: -14}
+        - {x: 28, y: -3}
+    - name: Item_food_65
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: -1}
+        - {x: 3, y: -9}
+        - {x: 3, y: -30}
+        - {x: 5, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -13}
+        - {x: 26, y: -1}
+    - name: Item_food_66
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -6}
+        - {x: 0, y: -18}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -18}
+        - {x: 27, y: -6}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_67
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -4}
+        - {x: 1, y: -20}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -6}
+        - {x: 27, y: -4}
+    - name: Item_food_68
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 11, y: -2}
+        - {x: 5, y: -15}
+        - {x: 3, y: -23}
+        - {x: 3, y: -30}
+        - {x: 7, y: -32}
+        - {x: 28, y: -32}
+        - {x: 29, y: -31}
+        - {x: 29, y: -7}
+        - {x: 27, y: -2}
+    - name: Item_food_69
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -5}
+        - {x: 8, y: -6}
+        - {x: 0, y: -24}
+        - {x: 0, y: -29}
+        - {x: 3, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -18}
+        - {x: 22, y: -5}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_70
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 13, y: -3}
+        - {x: 5, y: -8}
+        - {x: 1, y: -18}
+        - {x: 1, y: -29}
+        - {x: 3, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -30}
+        - {x: 31, y: -12}
+        - {x: 21, y: -3}
+    - name: Item_food_71
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: -1}
+        - {x: 5, y: -5}
+        - {x: 3, y: -17}
+        - {x: 3, y: -30}
+        - {x: 6, y: -32}
+        - {x: 28, y: -32}
+        - {x: 29, y: -29}
+        - {x: 29, y: -7}
+        - {x: 20, y: -1}
+    - name: Item_food_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -5}
+        - {x: 0, y: -13}
+        - {x: 0, y: -29}
+        - {x: 2, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -8}
+        - {x: 25, y: -5}
+    - name: Item_food_73
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 27, y: -6}
+        - {x: 26, y: -3}
+        - {x: 11, y: -3}
+        - {x: 4, y: -5}
+        - {x: 1, y: -16}
+        - {x: 1, y: -28}
+        - {x: 3, y: -32}
+        - {x: 27, y: -32}
+        - {x: 31, y: -28}
+        - {x: 31, y: -25}
+        - {x: 30, y: -14}
+    - name: Item_food_74
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -1}
+        - {x: 3, y: -11}
+        - {x: 3, y: -32}
+        - {x: 28, y: -32}
+        - {x: 29, y: -31}
+        - {x: 29, y: -7}
+        - {x: 27, y: -1}
+    - name: Item_food_75
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -6}
+        - {x: 0, y: -20}
+        - {x: 0, y: -29}
+        - {x: 3, y: -32}
+        - {x: 30, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -14}
+        - {x: 28, y: -6}
+    - name: Item_food_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -4}
+        - {x: 5, y: -5}
+        - {x: 1, y: -17}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -4}
+    - name: Item_food_77
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: -2}
+        - {x: 8, y: -6}
+        - {x: 4, y: -13}
+        - {x: 3, y: -18}
+        - {x: 3, y: -30}
+        - {x: 6, y: -32}
+        - {x: 28, y: -32}
+        - {x: 29, y: -31}
+        - {x: 29, y: -5}
+        - {x: 28, y: -2}
+    - name: Item_food_78
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -5}
+        - {x: 3, y: -13}
+        - {x: 0, y: -20}
+        - {x: 0, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -16}
+        - {x: 30, y: -5}
+    - name: Item_food_79
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: -3}
+        - {x: 3, y: -10}
+        - {x: 1, y: -22}
+        - {x: 1, y: -30}
+        - {x: 4, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -28}
+        - {x: 31, y: -10}
+        - {x: 30, y: -3}
+    - name: Item_food_80
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -3}
+        - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -1}
+        - {x: 4, y: -1}
+    - name: Item_food_81
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: -4}
+        - {x: 10, y: -4}
+        - {x: 3, y: -12}
+        - {x: 0, y: -18}
+        - {x: 0, y: -29}
+        - {x: 1, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -13}
+        - {x: 30, y: -6}
+    - name: Item_food_82
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 2, y: -16}
+        - {x: 1, y: -25}
+        - {x: 1, y: -30}
+        - {x: 2, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -4}
+        - {x: 22, y: -2}
+        - {x: 11, y: -2}
+        - {x: 4, y: -10}
+    - name: Item_food_83
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 14, y: 0}
+        - {x: 3, y: -7}
+        - {x: 3, y: -30}
+        - {x: 4, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -3}
+        - {x: 24, y: 0}
+    - name: Item_food_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: -6}
+        - {x: 5, y: -12}
+        - {x: 0, y: -22}
+        - {x: 0, y: -31}
+        - {x: 2, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -19}
+        - {x: 21, y: -6}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: -4}
+        - {x: 7, y: -4}
+        - {x: 1, y: -16}
+        - {x: 1, y: -28}
+        - {x: 5, y: -32}
+        - {x: 27, y: -32}
+        - {x: 31, y: -28}
+        - {x: 31, y: -25}
+        - {x: 27, y: -11}
+    - name: Item_food_86
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: -2}
+        - {x: 5, y: -7}
+        - {x: 3, y: -23}
+        - {x: 3, y: -30}
+        - {x: 5, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -5}
+        - {x: 20, y: -2}
+    - name: Item_food_87
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -7}
+        - {x: 12, y: -7}
+        - {x: 8, y: -9}
+        - {x: 0, y: -19}
+        - {x: 0, y: -29}
+        - {x: 1, y: -32}
+        - {x: 29, y: -32}
+        - {x: 32, y: -29}
+        - {x: 32, y: -21}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_88
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23, y: -5}
+        - {x: 12, y: -5}
+        - {x: 8, y: -6}
+        - {x: 1, y: -23}
+        - {x: 1, y: -30}
+        - {x: 4, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -30}
+        - {x: 31, y: -22}
+        - {x: 27, y: -8}
+    - name: Item_food_89
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: -3}
+        - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -7}
+        - {x: 22, y: -3}
+    - name: Item_food_90
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: -9}
+        - {x: 10, y: -10}
+        - {x: 8, y: -13}
+        - {x: 0, y: -20}
+        - {x: 0, y: -30}
+        - {x: 1, y: -32}
+        - {x: 32, y: -32}
+        - {x: 32, y: -9}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_91
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: -7}
+        - {x: 9, y: -7}
+        - {x: 1, y: -20}
+        - {x: 1, y: -29}
+        - {x: 3, y: -32}
+        - {x: 28, y: -32}
+        - {x: 31, y: -30}
+        - {x: 31, y: -10}
+    - name: Item_food_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: -5}
+        - {x: 3, y: -17}
+        - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -8}
+        - {x: 26, y: -5}
+    - name: Item_food_93
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 0, y: -6}
+        - {x: 0, y: -29}
+        - {x: 2, y: -32}
+        - {x: 31, y: -32}
+        - {x: 32, y: -30}
+        - {x: 32, y: -16}
+        - {x: 28, y: -6}
+      - - {x: 9, y: 0}
+        - {x: 10, y: -3}
+        - {x: 21, y: -3}
+        - {x: 23, y: -1}
+        - {x: 23, y: 0}
+    - name: Item_food_94
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: -4}
+        - {x: 5, y: -7}
+        - {x: 1, y: -25}
+        - {x: 1, y: -31}
+        - {x: 2, y: -32}
+        - {x: 31, y: -32}
+        - {x: 31, y: -15}
+        - {x: 19, y: -4}
+    - name: Item_food_95
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 4, y: -2}
+        - {x: 3, y: -4}
+        - {x: 3, y: -32}
+        - {x: 29, y: -32}
+        - {x: 29, y: -7}
+        - {x: 18, y: -2}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
