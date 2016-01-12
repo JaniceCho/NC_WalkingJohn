@@ -12,9 +12,7 @@ public class MoveUtil : MonoBehaviour
         Vector2 targetPos = target.position;
         Vector2 framePos = Vector2.MoveTowards(
             self.position, targetPos, moveSpeed * Time.deltaTime);
-        Vector2 moveDir = framePos - (Vector2)self.position;
-        self.Translate(moveDir);
-
+        self.position = framePos;
         return Vector2.Distance(framePos, targetPos);
     }
 }

@@ -32,13 +32,13 @@ public class ManagerCharacter : MonoBehaviour
 	
 	void Update () 
 	{
-        if(ManagerGame.moveOn == true)
+        //if(ManagerGame.moveOn == true)
             Invoke(state.ToString(), 0.0f);
 
         if (state == State.Dead)
             return;
 
-        if (ManagerGame.ghostMoved != true)
+        //if (ManagerGame.ghostMoved != true)
             ProcessInput();
 	}
 
@@ -115,4 +115,41 @@ public class ManagerCharacter : MonoBehaviour
     {
 
     }
+
+    void Right()
+    {
+        if (MoveUtil.MoveByFrame(transform, johnGhost.transform, moveSpeed) == 0.0f)
+        {
+            state = State.Idle;
+            return;
+        }
+    }
+
+    void Left()
+    {
+        if (MoveUtil.MoveByFrame(transform, johnGhost.transform, moveSpeed) == 0.0f)
+        {
+            state = State.Idle;
+            return;
+        }
+    }
+
+    void Up()
+    {
+        if (MoveUtil.MoveByFrame(transform, johnGhost.transform, moveSpeed) == 0.0f)
+        {
+            state = State.Idle;
+            return;
+        }
+    }
+
+    void Down()
+    {
+        if (MoveUtil.MoveByFrame(transform, johnGhost.transform, moveSpeed) == 0.0f)
+        {
+            state = State.Idle;
+            return;
+        }
+    }
+
 }
