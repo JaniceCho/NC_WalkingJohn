@@ -14,8 +14,13 @@ public class CreateMap : MonoBehaviour {
     public int endPoint_x;
     public int endPoint_y;
 
-	// Use this for initialization
-	void Start ()
+    //Plane타일의 프리팹을 할당하는 변수.
+    public GameObject tile_prefab =
+               Resources.Load("Map/testObj", typeof(GameObject)) as GameObject;//("Prefab_Tile_Plane");
+    GameObject map;
+
+    // Use this for initialization
+    void Start ()
     {
         // 맵 시작 포인트를 초기화함.(x좌표 y좌표)
         startPoint_x = -25;
@@ -27,7 +32,7 @@ public class CreateMap : MonoBehaviour {
         Sprite_TilePlane = Resources.Load("Map/Plane", typeof(Sprite)) as Sprite;
 
         //John의 초기화 위치.
-        Vector2 pos = new Vector2(0, 0);
+        Vector3 pos = new Vector3(0, 0, 0);
 
         //pos의 위치에 Plane을 생성하는 함수를 호출함.
         CreatePlane(pos);
@@ -37,7 +42,8 @@ public class CreateMap : MonoBehaviour {
 	// Update is called once per frame
 	void Update ()
     {
-        float randNumber = Random.Range(0f, tileNum);
+        int randNumber = (int) Random.Range(0f, tileNum);
+        Debug.Log("randNumber : " + randNumber);
 
         //GameObject tile = new GameObject();
         //tile.AddComponent<SpriteRenderer>();
@@ -53,5 +59,11 @@ public class CreateMap : MonoBehaviour {
         tile.AddComponent<SpriteRenderer>();
         SpriteRenderer renderer = tile.AddComponent<SpriteRenderer>();
         tile.GetComponent<SpriteRenderer>().sprite = Sprite_TilePlane;
+    }
+
+    public void CreatePlanePrefab(Vector3 pos)
+    {
+        map = Instantiate(tile_prefab, pos, Quaternion.identity);
+         
     }
 }
